@@ -25,7 +25,6 @@ All of the work that you do tonight should go into this folder.
 You'll notice that there are a couple of files in here:
 
 -   `README.md` (what you're reading now)
--   `LICENSE` (a legal document for protecting our work)
 -   `test-script.sh`
 
 `test-script.sh` is a custom test script that we've provided for you.
@@ -55,7 +54,7 @@ Test 9: List the (non-hidden) contents of 'journal', and write that into a new f
 The purpose of this script is to allow you to easily check your
 work after every step and see if you've done it correctly.
 You **must** run the script every time that you think you've finished a step
-(though you can also run it at other times);
+(though you can also run it at other times)
 in order for it to correctly track your progress through the assignment.
 
 ## Directions
