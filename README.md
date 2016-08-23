@@ -1,25 +1,8 @@
-[![General Assembly Logo](https://camo.githubusercontent.com/1a91b05b8f4d44b5bbfb83abac2b0996d8e26c92/687474703a2f2f692e696d6775722e636f6d2f6b6538555354712e706e67)](https://generalassemb.ly/education/web-development-immersive)
-
-# Homework : Using the Terminal
-
-<!-- MATERIALS METADATA -->
-<!--
-  title: 'Using the Terminal'
-  type: homework
-  duration: ??
-  creators: Matt Brendzel
-  competencies: command line/bash
--->
+Homework : Using the Terminal
 
 ## Setup
 
-If you haven't already, please fork and clone the main repo for this course
-(it should be named `wdi-remote-r2d2`). This will be the primary tool for both
-receiving new materials from us _**and**_ submitting your work for review.
-
-Once you've done that, open the directory `unit_01/w01d01/homework`
-(i.e. **this** directory).
-This will be the root directory for your homework tonight.
+This directory will be the root directory for your homework tonight.
 All of the work that you do tonight should go into this folder.
 
 You'll notice that there are a couple of files in here:
@@ -36,7 +19,7 @@ If you're in the `homework` directory, all you'll need to do is type
 making sure that you can run the test script - you should get a message like
 this:
 
-```markdown
+```
 prior progress: 0
 Test 1: Create directory 'journal' -- FAILED
 Test 2: Create directory '2020' inside 'journal' -- FAILED
@@ -85,27 +68,5 @@ Complete each of the following steps _using **only** the console_.
 
 ## Submission
 
-Use the following procedure to submit your homework.
-
-1.  Make a Git commit if you haven't already -- this is necessary in order for
-    your code to get saved. (In case you don't remember how, navigate up to
-    `w01d01` and run the command `git add homework` to stage everything in the
-    `homework` directory; then, run `git commit -m` to actually commit your
-    changes).
-
-2.  Push up your code to your fork on GitHub by typing `git push origin master`
-
-3.  Create an issue on the upstream (i.e. original) `wdi-remote-...`
-    repo with a title formatted like "YourGitHubUsername -- Week XX Day XX".
-
-4.  Run the test script one last time, and paste the output into the body of
-    the issue. Then, add:
-
-    -   a link which points back to your fork's `unit_01/w01d01/homework`
-        directory, and
-
-    -   a 'comfort' score from 1 to 5 based on how comfortable you were with
-        this assignment, where 5 is "I completely understood this assignment.",
-        and 1 is "I didn't understand it at all"
-
-5.  Finally, click 'Submit new issue' to file the issue.
+To submit your work once you've finished, ZIP up this folder again, and email it to
+`matt.brendzel@generalassemb.ly` with the subject line "R2D2 w01d01 HW".
